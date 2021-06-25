@@ -1,0 +1,23 @@
+0,CombatZoneResize,241,226,406,391,TLResume,,,
+0,HeartTeleport,320,304,,,,,,
+0,HeartMode,0,,,,,,,
+0,TLPause,,,,,,,,
+0,SansHead,ClosedEyes,,,,,,,
+0,SansText,after all,,,,,,,
+0,SansHead,noeyes,,,,,,,
+0,SansText,whether it is fight or endure,,,,,,,
+0,SansText,the the future of monsters isnt optimistic,,,,,,,
+0,SansHead,default,,,,,,,
+0,BONESTAB,0,35,0,8,,,,
+0,BONESTAB,1,35,0,8,,,,
+0,BONESTAB,2,35,0,8,,,,
+0,BONESTAB,3,35,0,8,,,,
+0,BoneVRepeat,128,231,155,0,250,13,165,2
+0,BoneVRepeat,503,231,155,2,250,13,165,2
+0.2,BoneHRepeat,246,214,77,1,250,7,300,
+0,BoneHRepeat,323,391,77,3,250,7,300,
+0.75,BoneHRepeat,323,214,77,1,250,7,300,
+0,BoneHRepeat,246,391,77,3,250,7,300,
+7.5,BoneVRepeat,128,231,155,0,444,6,12,1
+0,BoneVRepeat,503,231,155,2,444,6,12,1
+1,EndAttack,,,,,,,,
